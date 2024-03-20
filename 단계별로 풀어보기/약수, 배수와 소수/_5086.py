@@ -11,4 +11,5 @@ while True:
     elif num1 % num2 == 0:
         print("multiple")
     # 약수 배수 둘다 아님
-    print("neither")
+    else:
+        print("neither")
