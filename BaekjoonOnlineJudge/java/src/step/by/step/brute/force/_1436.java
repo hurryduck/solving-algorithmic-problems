@@ -1,3 +1,5 @@
+package step.by.step.brute.force;
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.stream.IntStream;
