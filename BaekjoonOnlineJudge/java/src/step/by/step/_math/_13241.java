@@ -16,23 +16,36 @@ public class _13241 {
         
         br.close();
 
-        System.out.println(getSmallestCommonMultiple(a, b)); // 최소공배수 출력
+        System.out.println(getSmallestCommonMultiple(a, b));
     }   
 
+    // 최소공배수를 구하는 메소드
     private long getSmallestCommonMultiple(long a, long b) {
-        long smallestCommonMultiple = 1; // 최소공배수
-        // 소인수분해
-        long div = 2;
-        while (div <= a && div <= b) {
-            if (a % div == 0 && b % div == 0) {
-                smallestCommonMultiple *= div;
-                a /= div;
-                b /= div;
-            }
-            else {
-                div++;
-            }
+        return a * b / getGreatestCommonDivisor(a, b);
+    }
+
+    // 최대공약수를 구하는 메소드
+    private long getGreatestCommonDivisor(long a, long b) {
+        long largerNum;
+        long smallerNum;
+        if (a > b) { // a가 클 경우
+            largerNum = a;
+            smallerNum = b;
         }
-        return smallestCommonMultiple *= a * b; // 서로소 곱하여 반환
+        else if (a < b) { // b가 클 경우
+            largerNum = b;
+            smallerNum = a;
+        }
+        else { // a = b가 같을 경우
+            return a;
+        }
+
+        while (smallerNum != 0) {
+            long remainder = largerNum % smallerNum;
+            largerNum = smallerNum;
+            smallerNum = remainder;
+        }
+
+        return largerNum;
     }
 }
