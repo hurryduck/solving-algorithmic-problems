@@ -1,4 +1,4 @@
-package step.by.step._math;
+package step.by.step.data.structure;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
