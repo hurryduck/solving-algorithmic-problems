@@ -27,7 +27,6 @@ public class _1009 {
                 currentRemainder = (currentRemainder * num) % 10;
             }
 
-            // The sequence of last digits is now in remainderList and it repeats after remainderList.size() elements
             int cycleSize = remainderList.size();
             int index = (exponent - 1) % cycleSize;
             sb.append(remainderList.get(index) == 0 ? 10 : remainderList.get(index)).append("\n");
