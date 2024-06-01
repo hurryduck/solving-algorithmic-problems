@@ -1,4 +1,4 @@
-package problems;
+package rank.silver.iii;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

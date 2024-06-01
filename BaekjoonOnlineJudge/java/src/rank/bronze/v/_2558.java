@@ -1,5 +1,4 @@
-package problems;
-
+package rank.bronze.v;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
