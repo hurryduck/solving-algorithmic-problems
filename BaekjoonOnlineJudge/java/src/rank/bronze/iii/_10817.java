@@ -1,4 +1,4 @@
-package rank;
+package rank.bronze.iii;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
