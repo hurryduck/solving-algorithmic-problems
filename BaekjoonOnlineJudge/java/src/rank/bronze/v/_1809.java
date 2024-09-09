@@ -6,14 +6,13 @@ public class _1809 {
     }
 
     private void solution() throws Exception {
-        String moo = """
-            (___)
-            (o o)____/
-             @@      \\
-              \\ ____,/
-              //   //
-             ^^   ^^
-                """;
+        String moo = 
+              " (___)\n"
+            + " (o o)____/\n"
+            + "  @@      \\\n"
+            + "   \\ ____,/\n"
+            + "   //   //\n"
+            + "  ^^   ^^\n";
         System.out.println(moo);
     }
 }
