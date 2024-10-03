@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 
 
-public class _1436 {
+public class p1436 {
     private void solution() throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.valueOf(br.readLine());
@@ -19,6 +19,6 @@ public class _1436 {
     }
     
     public static void main(String[] args) throws Exception{
-        new _1436().solution();
+        new p1436().solution();
     }
 }
