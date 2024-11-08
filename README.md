@@ -34,3 +34,4 @@
 # Math
 * [2018번: 수들의 합 5](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2018t2.py)
 * [2097번: 조약돌](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2097.py)
+* [3049번: 다각형의 대각선](https://github.com/hurryduck/solving-algorithmic-problems/commit/735f525c827a3acb165cb0f569bf199b21086742)
