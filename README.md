@@ -22,7 +22,7 @@
 * [2628번: 종이자르기](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2628.py)
 * [2822번: 점수 계산](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2822.py)
 
-# Bute Force Algorithm
+# Brute Force Algorithm
 * [2057번: 팩토리얼 분해](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2057t2.py)
 * [2303번: 숫자 게임](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2303.py)
 * [2508번: 사탕 박사 고창영](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2508.py)
