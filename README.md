@@ -10,6 +10,7 @@
 * [2669번: 직사각형 네개의 합집합의 면적 구하기](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2669.py)
 * [2740번: 행렬 곱셈](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2740.py)
 * [2890번: 카약](https://github.com/hurryduck/solving-algorithmic-problems/commit/30e05572734f985b1cceab8f694b795b9589c1b8)
+* [3054번: 피터팬 프레임](https://github.com/hurryduck/solving-algorithmic-problems/commit/65dde56530a7552b8ceacea9903b0737500339aa)
 * [5338번: 마이크로소프트 로고](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/bronze/v/p5338.py)
 * [10757번: 큰수 A+B](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/bronze/v/p10757.py)
 
