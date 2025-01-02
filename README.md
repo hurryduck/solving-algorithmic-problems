@@ -12,6 +12,7 @@
 * [2890번: 카약](https://github.com/hurryduck/solving-algorithmic-problems/commit/30e05572734f985b1cceab8f694b795b9589c1b8)
 * [3054번: 피터팬 프레임](https://github.com/hurryduck/solving-algorithmic-problems/commit/65dde56530a7552b8ceacea9903b0737500339aa)
 * [3060번: 욕심쟁이 돼지](https://github.com/hurryduck/solving-algorithmic-problems/commit/be076c79aba60ff91a657ac5cbdcf39e4afc45c5)
+* [3230번: 금메달, 은메달, 동메달은 누가?](https://github.com/hurryduck/solving-algorithmic-problems/commit/c9ac3d2f82f4947dbbaf56f68a30e997828a7977)
 * [5338번: 마이크로소프트 로고](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/bronze/v/p5338.py)
 * [10757번: 큰수 A+B](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/bronze/v/p10757.py)
 
