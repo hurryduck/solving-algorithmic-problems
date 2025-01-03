@@ -31,6 +31,7 @@
 * [2303번: 숫자 게임](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2303.py)
 * [2508번: 사탕 박사 고창영](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2508.py)
 * [2635번: 수 이어가기](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2635.py)
+* [3711번: 학번](https://github.com/hurryduck/solving-algorithmic-problems/commit/b77b9e66613c8d6ac90df8ec00b989f02fcc87fe)
 
 # Queue
 * [2161번: 카드1](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2161.py)
