@@ -25,6 +25,7 @@
 # Sort
 * [2628번: 종이자르기](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2628.py)
 * [2822번: 점수 계산](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2822.py)
+* [3845번: 잔디깎기](https://github.com/hurryduck/solving-algorithmic-problems/commit/2db94f4172abe3c9d3d7bb6a75028ca239a49efb)
 
 # Brute Force Algorithm
 * [2057번: 팩토리얼 분해](https://github.com/hurryduck/solving-algorithmic-problems/blob/main/BaekjoonOnlineJudge/python/rank/silver/v/p2057t2.py)
